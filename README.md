@@ -63,8 +63,8 @@ This script is designed to be easily customizable:
 
 The script sets up these example projects:
 
-- **RAGEN**: A research project that demonstrates [brief description]
-- **CoE**: A framework for [brief description]
+- **RAGEN**: https://www.github.com/ZihanWang314/RAGEN
+- **CoE**: https://www.github.com/ZihanWang314/CoE
 
 You can replace these with your own projects by changing the repository URLs in the script.
 
